@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maco-data
 - 👀 I’m interested in Data Science, Photography and everything Tech related!
-- 🌱 I’m currently learning Python, R, MySQL and Tableu.
+- 🌱 I’m currently learning Python, SQL and Tableu.
