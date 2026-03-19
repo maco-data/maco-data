@@ -1,4 +1,4 @@
-![](https://i.imgur.com/VRUNBRv.png)
+![](https://imgur.com/gXY6vCT)
 
 - 👋 Hi, I’m Marco, from Panama
 - 👀 I’m interested in Photography, Graphic Design, Aviation, Data Science, Coffee and everything Tech related!
